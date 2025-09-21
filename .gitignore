@@ -1,0 +1,15 @@
+# ESP32/Arduino
+*.pyc
+*.swp
+*.swo
+*.bin
+*.elf
+*.hex
+
+# Flutter
+allarme_gas_camper_beppe/build/
+allarme_gas_camper_beppe/.dart_tool/
+allarme_gas_camper_beppe/.packages
+allarme_gas_camper_beppe/.flutter-plugins
+allarme_gas_camper_beppe/.idea/
+allarme_gas_camper_beppe/.vscode/
